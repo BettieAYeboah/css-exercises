@@ -1,0 +1,15 @@
+p {
+    color: black; 
+    background-color: rgb(217, 104, 104);
+    font-family:'DejaVu Sans',Verdana, 'Geneva', Tahoma, sans-serif;
+}
+
+#title {
+    color: blue;
+    font-size: 36px;
+}
+
+#list {
+    font-size: 24px;
+}
+
