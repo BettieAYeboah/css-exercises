@@ -13,3 +13,8 @@ p {
     font-size: 24px;
 }
 
+#pick {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
